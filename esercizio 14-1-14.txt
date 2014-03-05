@@ -1,0 +1,12 @@
+-realizzare un applicativo java che permetta di simulare un sistema di prenotazione di un cinema.
+
+-la sala cinematografica ha una pianta quadra di 100 posti numerati per fila.
+
+-il sistema deve consentire la prenotazione online di utenti che desiderano prenotare senza acquisto 
+uno o più posti, 
+prenotare con acquisto visualizzando in tempo reale  quelli liberi e quelli già 
+occupati e disdire la prenotazione.
+
+-simulare l'arrivo dei clienti nel sistema di prenotazioni mediate thread differenti.
+prevedere opportuni metodi per visualizzare lo stato della sala, 
+per effettuare leprenotazioni e le disdette, per scegliere i posti desiderati.
